@@ -18,10 +18,17 @@
             },
             
             {
-                "name": "Flutter emulator",
+                "name": "Flutter emulator1",
                 "request": "launch",
                 "type": "dart",
                 "deviceId": "emulator-5554"
+            },
+            
+            {
+                "name": "Flutter emulator2",
+                "request": "launch",
+                "type": "dart",
+                "deviceId": "emulator-5556"
             }
     ]
 }

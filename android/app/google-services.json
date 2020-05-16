@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133278254004",
+    "firebase_url": "https://private-chat-flutter.firebaseio.com",
+    "project_id": "private-chat-flutter",
+    "storage_bucket": "private-chat-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133278254004:android:f845284951c5118a1268e1",
+        "android_client_info": {
+          "package_name": "com.example.private_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133278254004-qg4ad7g7qdinsgcoli2s50tqukq5gj09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5swdrajaJM3Fm8ulc0hwoYwowJ33NY4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133278254004-qg4ad7g7qdinsgcoli2s50tqukq5gj09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
